@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+#Server Section
 $|=1;
 
 open (DEBUG, '>>/tmp/progLog.log');

@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#Consolidation Module for Image Transcoding Service
 consolidationGIF()
 {	
 	GifName1="OutGIF"

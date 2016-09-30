@@ -1,4 +1,5 @@
 #!/bin/sh
+#Supporting Module
 typeControl()
 {
 	local myGIF='GIF'
